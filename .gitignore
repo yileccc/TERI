@@ -1,0 +1,6 @@
+
+*.pyc
+.DS_Store
+data/.DS_Store
+detection_stage/.DS_Store
+recovery_stage/.DS_Store
